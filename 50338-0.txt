@@ -1,160 +1,62 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>The Project Gutenberg eBook of Huxley and Education, by Henry Fairfield Osborn</title>
-    <style type="text/css">
+*** START OF THE PROJECT GUTENBERG EBOOK 50338 ***
 
-    p {  margin-top: .75em;
-         text-align: justify;
-         margin-bottom: .75em;
-         }
-
-    p.bold {text-align: center; font-weight: bold;}
-    p.bold2 {text-align: center; font-weight: bold; font-size: 150%;}
-
-    h1,h2,h3,h4,h5,h6 {
-         text-align: center; /* all headings centered */
-         clear: both;
-         }
-    h1 span, h2 span { display: block; text-align: center; }
-    #id1 { font-size: smaller }
-
-
-    hr {
-        width: 33%;
-        margin-top: 2em;
-        margin-bottom: 2em;
-        margin-left: 33.5%;
-        margin-right: 33.5%;
-        clear: both;
-    }
-
-    body{margin-left: 10%;
-         margin-right: 10%;
-        }
-
-    table {margin-left: auto; margin-right: auto; padding: 5px; border-collapse: collapse; border: none; text-align: right;}
-
-    .pagenum  { /* uncomment the next line for invisible page numbers */
-            /*  visibility: hidden;  */
-                position: absolute;
-                left: 92%;
-                font-size: smaller;
-                text-align: right;
-                text-indent: 0px;
-              } /* page numbers */
-
-    .center   {text-align: center;}
-    .smaller  {font-size: smaller;}
-    .smcap    {font-variant: small-caps;}
-    .space-above {margin-top: 3em;}
-    .right            {text-align: right;}
-    .left             {text-align: left;}
-    .s5       {display: inline; margin-left: 5em;}
-    .s9       {display: inline; margin-left: 9em;}
-
-    .poem             {display: inline-block; text-align: left;}
-    .poem br          {display: none;}
-    .poem .stanza     {margin: 1em 0em 1em 0em;}
-    .poem div        {margin: 0; padding-left: 3em; text-indent: -3em;}
-
-    hr.full { width: 100%;
-              margin-top: 3em;
-              margin-bottom: 0em;
-              margin-left: auto;
-              margin-right: auto;
-              height: 4px;
-              border-width: 4px 0 0 0; /* remove all borders except the top one */
-              border-style: solid;
-              border-color: #000000;
-              clear: both; }
-    </style>
-</head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 50338 ***</div>
-<h1>The Project Gutenberg eBook, Huxley and Education, by Henry Fairfield
-Osborn</h1>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<table border="0" style="background-color: #ccccff;margin: 0 auto;" cellpadding="10">
-  <tr>
-    <td valign="top">
-      Note:
-    </td>
-    <td>
-      Images of the original pages are available through
+Note: Images of the original pages are available through
       Internet Archive/American Libraries. See
-      <a href="https://archive.org/details/huxleyandeducat01osbogoog">
-      https://archive.org/details/huxleyandeducat01osbogoog</a>
-    </td>
-  </tr>
-</table>
-<p>&nbsp;</p>
-<hr class="full" />
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+      https://archive.org/details/huxleyandeducat01osbogoog
 
-<div class="center"><a name="cover.jpg" id="cover.jpg"></a><img src="images/cover.jpg" alt="cover" /></div>
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_1" id="Page_1">[Pg 1]</a></span></p>
 
-<p class="bold2">HUXLEY<br />AND EDUCATION</p>
 
-<hr />
+HUXLEY AND EDUCATION
 
-<div class="center"><img src="images/titlepage.jpg" alt="title page" /></div>
+Address at the Opening of the College Year
+Columbia University
+September 28, 1910
 
-<hr />
+by
 
-<p><span class='pagenum'><a name="Page_3" id="Page_3">[Pg 3]</a></span></p>
+HENRY FAIRFIELD OSBORN
+LL.D., Hon. D.Sc, Camb.
+Da Costa Professor of Zoology
 
-<h1>HUXLEY<br />AND EDUCATION</h1>
 
-<p class="bold space-above">ADDRESS AT<br />THE OPENING OF THE COLLEGE YEAR<br />
-COLUMBIA UNIVERSITY<br /><span class="smcap">September 28, 1910</span></p>
 
-<p class="bold space-above">BY<br />HENRY FAIRFIELD OSBORN<br />
-<span class="smcap">LL.D., Hon. D.Sc, Camb.</span><br />DA COSTA PROFESSOR OF ZOOLOGY</p>
 
-<p class="bold space-above">NEW YORK<br />CHARLES SCRIBNER'S SONS<br />1910</p>
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_4" id="Page_4">[Pg 4]</a></span></p>
 
-<p class="center">Copyright, 1910<br />By <span class="smcap">Henry Fairfield Osborn</span></p>
+New York
+Charles Scribner's Sons
+1910
 
-<p class="center space-above">THE DE VINNE PRESS</p>
+Copyright, 1910
+By Henry Fairfield Osborn
 
-<hr />
+The De Vinne Press
 
-<p><span class='pagenum'><a name="Page_5" id="Page_5">[Pg 5]</a></span></p>
 
-<p class="bold2">HUXLEY AND EDUCATION</p>
 
-<div class="center"><div class="poem"><div class="stanza">
-<div>"The stars come nightly to the sky;</div>
-<div>The tidal wave comes to the sea;</div>
-<div>Nor time, nor space, nor deep, nor high</div>
-<div>Can keep my own away from me."</div>
-</div><div class="stanza">
-<div><span class="s9">&nbsp;</span>&mdash;<span class="smcap">Burroughs.</span></div>
-</div></div></div>
 
-<p>The most sanguine day of the college year is the opening one: the
+HUXLEY AND EDUCATION
+
+     "The stars come nightly to the sky;
+     The tidal wave comes to the sea;
+     Nor time, nor space, nor deep, nor high
+     Can keep my own away from me."
+
+                          --BURROUGHS.
+
+
+The most sanguine day of the college year is the opening one: the
 student has not yet faced the impossible task annually presented of
 embracing the modern world of knowledge; his errors and failures of
 earlier years are forgotten; he faces the coming months full of new
-hope.</p>
+hope.
 
-<p>How would my old master, Huxley, address you if he were to find you in
+How would my old master, Huxley, address you if he were to find you in
 this felicitous frame of mind, sharpening your wits and your pencils for
-the contest which will begin to-morrow morning in every hall and<span class='pagenum'><a name="Page_6" id="Page_6">[Pg 6]</a></span>
+the contest which will begin to-morrow morning in every hall and
 laboratory of this great University? May I speak for him as I heard him
 during the winter of 1879-80 from his lecture desk and as he kindly in
 conversation gave me of his stores of wisdom and experience? May I add
@@ -166,11 +68,11 @@ research professors? It was Huxley's life, his example, the tone of his
 writings, rather than his actual precepts which most influenced me, for
 in 1879 he was so intensely absorbed in public work and administration,
 as well as in research and teaching, that little opportunity remained
-for <span class='pagenum'><a name="Page_7" id="Page_7">[Pg 7]</a></span>laboratory conferences with his students. How I happened to go to
-him was as follows:</p>
+for laboratory conferences with his students. How I happened to go to
+him was as follows:
 
-<p>Unlucky&mdash;as they appeared to me at the time, but lucky as I look back
-upon them&mdash;were my own early flounderings and blunderings in seeking the
+Unlucky--as they appeared to me at the time, but lucky as I look back
+upon them--were my own early flounderings and blunderings in seeking the
 true method of education. Huxley has observed of his "Voyage of the
 Rattlesnake" that it is a good thing to get down to the bare bones of
 existence. The same is true of self-education. As compared with the
@@ -178,7 +80,7 @@ hosts of to-day, few men in 1877 knew how to guide the graduate youth;
 the Johns Hopkins was still nascent; the creative force of Louis Agassiz
 had spent itself in producing the first school of naturalists, including
 the genius, William James. One learnt one's errors through falling into
-pitfalls. With two companions<span class='pagenum'><a name="Page_8" id="Page_8">[Pg 8]</a></span> I was guided by a sort of blind instinct
+pitfalls. With two companions I was guided by a sort of blind instinct
 to feel that the most important thing in life was to make a discovery of
 some kind. On consulting one of our most forceful and genial professors
 his advice was negative and discouraging: "Young men," he said, "go on
@@ -189,25 +91,25 @@ exactly what. We disregarded the advice, left the laboratory of this
 professor, and at the end of the year did succeed in writing a paper
 which subsequently attracted the attention of Huxley and was the
 indirect means of an introduction to Darwin. It was a lame product, but
-it was ours, and in looking back upon<span class='pagenum'><a name="Page_9" id="Page_9">[Pg 9]</a></span> it, one feels with Touchstone in
-his comment upon Audrey:</p>
+it was ours, and in looking back upon it, one feels with Touchstone in
+his comment upon Audrey:
 
-<div class="center"><div class="poem"><div class="stanza">
-<div>"A poor virgin, Sir,</div>
-<div>An ill favored thing, Sir,</div>
-<div>But mine own."</div>
-</div></div></div>
 
-<p>I shall present in this brief address only one idea, namely, the lesson
-of Huxley's life and the result of my own experience is that <i>productive
-thinking</i> is the chief <i>means</i> as well as the chief <i>end</i> of education,
+     "A poor virgin, Sir,
+     An ill favored thing, Sir,
+     But mine own."
+
+
+I shall present in this brief address only one idea, namely, the lesson
+of Huxley's life and the result of my own experience is that _productive
+thinking_ is the chief _means_ as well as the chief _end_ of education,
 and that the natural evolution of education will be to develop this kind
-of thinking earlier and earlier in the life of the student.</p>
+of thinking earlier and earlier in the life of the student.
 
-<p>One of the most marvelous of the manifold laws of evolution is what is
-called '<i>acceleration</i>.' By this law the beginning of an important organ
+One of the most marvelous of the manifold laws of evolution is what is
+called '_acceleration_.' By this law the beginning of an important organ
 like the eye of the chick, for example, is thrust forward into a very
-early stage<span class='pagenum'><a name="Page_10" id="Page_10">[Pg 10]</a></span> of embryonic development. This is, first, because the eye
+early stage of embryonic development. This is, first, because the eye
 is a very complex organ and needs a long time for development, and
 second because the fully formed eye of most animals is needed
 immediately at birth. I predict that the analogy in the evolution of
@@ -216,60 +118,60 @@ eye; it is needed by the student the moment he graduates, or is hatched,
 so to speak; it is now developed only in the graduate schools. It is
 such an integral and essential part of education that the spirit of it
 is destined to be 'accelerated,' or thrust forward into the opening and
-preparatory years.</p>
+preparatory years.
 
-<p>If the lines of one's life were to be cast afresh, if by some
+If the lines of one's life were to be cast afresh, if by some
 metempsychosis one were moulded into what is known as a "great
-educator," a man<span class='pagenum'><a name="Page_11" id="Page_11">[Pg 11]</a></span> of conventions and platforms, and were suddenly to
+educator," a man of conventions and platforms, and were suddenly to
 become more or less responsible for 3,000 minds and souls, productive
 thinking, or the "centrifugal method" of teaching, would not be
 postponed to graduation or thereafter, but would begin with the
-Freshman, yes, among these humble men of low estate! It may be <i>apropos</i>
+Freshman, yes, among these humble men of low estate! It may be _apropos_
 to recall a story told of President McCosh of Princeton, a man who
 inspired all his students to production and enlivened them with a
 constant flow of humor. On one occasion he invited his predecessor,
 ex-President McLean, to offer prayers in the College Chapel. Dr.
 McLean's prayer was at once all embracing and reminiscent; it descended
 from the foreign powers to the heads of the United States government, to
-the State of New Jersey, through the Trustees,<span class='pagenum'><a name="Page_12" id="Page_12">[Pg 12]</a></span> the Faculty, and, in a
+the State of New Jersey, through the Trustees, the Faculty, and, in a
 perfectly logical manner, finally reached the entering class. This
 naturally raised a great disturbance among the Sophomores, who were
 evidently jealous of the divine blessing. The disturbance brought the
 prayer to an abrupt close, and Dr. McCosh was heard to remark: "I should
 think that Dr. McLean would have more sense than to pray for the
-Freshmen."</p>
+Freshmen."
 
-<p>As regards the raw material into which 'productive thinking' is to be
+As regards the raw material into which 'productive thinking' is to be
 instilled, I am an optimist. I do not belong to the 'despair school' of
 educators, and have no sympathy with the army of editorial writers and
 prigs who are depreciating the American student. The chief trouble lies
 not with our youth, nor with our schools, but with our adults. How can
-springs rise higher than their sources? On the<span class='pagenum'><a name="Page_13" id="Page_13">[Pg 13]</a></span> whole, you students are
+springs rise higher than their sources? On the whole, you students are
 very much above the average American. You are not driven to these doors;
 certainly in these days of youthful freedom and choice you came of your
 own free will. The very fact of your coming raises you above the general
 level, and while you are here you will be living in a world of
-ideas,&mdash;the only kind of a world at all worth living in. You are
+ideas,--the only kind of a world at all worth living in. You are
 temporarily cut off more or less from the world of dollars and cents,
 shillings and pence. Here Huxley helps you in extolling the sheer sense
 of joy in thinking truer and straighter than others, a kind of
 superiority which does not mean conceit, the possession of something
 which is denied the man in the street. You redound with original
-impulses and creative energy, which must find expression<span class='pagenum'><a name="Page_14" id="Page_14">[Pg 14]</a></span> somehow or
+impulses and creative energy, which must find expression somehow or
 somewhere; if not under the prevailing incurrent, or 'centripetal
 system' of academic instruction, it must let itself out in
 extra-academic activities, in your sports, your societies, your
 committees, your organizations, your dramatics, all good things and
 having the highest educational value in so far as they represent your
-output, your outflow, your centrifugal force.</p>
+output, your outflow, your centrifugal force.
 
-<p>You are, in fact, in a contest with your intellectual environment
+You are, in fact, in a contest with your intellectual environment
 outside of these walls. Morally, according to Ferrero, politically,
 according to Bryce, and economically, according to Carnegie, you are in
 the midst of a 'triumphant democracy.' But in the world of ideas such as
 sways Italy, Germany, England, and in the highest degree France, you are
-in the midst of a 'triumphant mediocrity.'<span class='pagenum'><a name="Page_15" id="Page_15">[Pg 15]</a></span> Paris is a city where
-<i>ideas</i> are at a premium and money values count for very little in
+in the midst of a 'triumphant mediocrity.' Paris is a city where
+_ideas_ are at a premium and money values count for very little in
 public estimation. The whole public waits breathless upon the production
 of 'Chanticleer.' That Walhalla of French ambition, 'la Gloire,' may be
 reached by men of ideas, but not by men of the marts. Is it conceivable
@@ -277,10 +179,10 @@ that the police of New York should assemble to fight a mob gathered to
 break up the opera of a certain composer? Is it conceivable that you
 students should crowd into this theatre to prevent a speaker being
 heard, as those of the Sorbonne did some years ago in the case of
-Bruneti&egrave;re? If you should, no one in this city would understand you, and
-the authorities would be called on promptly to interfere.</p>
+Brunetière? If you should, no one in this city would understand you, and
+the authorities would be called on promptly to interfere.
 
-<p>A fair measure of the culture of your environment is the depth to<span class='pagenum'><a name="Page_16" id="Page_16">[Pg 16]</a></span> which
+A fair measure of the culture of your environment is the depth to which
 your morning paper prostitutes itself for the dollar, its shades of
 yellowness, its frivolity or its unscrupulousness, or both. I sometimes
 think it would be better not to read the newspapers at all, even when
@@ -292,82 +194,82 @@ intercollegiate debate. Such is the difference between precept and
 practice. American laurels are for the giant captain of industry; when
 his life is threatened or taken away acres of beautiful forest are cut
 down to procure the paper pulp necessary to set forth his achievements,
-while our greatest astronomer and<span class='pagenum'><a name="Page_17" id="Page_17">[Pg 17]</a></span> mathematician passes away and perhaps
+while our greatest astronomer and mathematician passes away and perhaps
 the pulp of a single tree will suffice for the brief, inconspicuous
-paragraphs which record his illness and death.</p>
+paragraphs which record his illness and death.
 
-<p>Your British cousin is in a far more favorable atmosphere, beginning
+Your British cousin is in a far more favorable atmosphere, beginning
 with his morning paper and ending with the conversation of his seniors
 over the evening cigar. As a Cambridge man, having spent two years in
 London and the university, I would not describe the life so much as
-serious as <i>worth while</i>. There are humor and the pleasures of life in
+serious as _worth while_. There are humor and the pleasures of life in
 abundance, but what is done, is done thoroughly well. Contrast the
 comments of the British and American press on such a light subject as
 international polo; the former alone are well worth reading, written by
-experts and adding something to our knowledge of the game.<span class='pagenum'><a name="Page_18" id="Page_18">[Pg 18]</a></span> In the more
+experts and adding something to our knowledge of the game. In the more
 novel subject of aviation we look in vain in our press for any solid
 information about construction. Or take the practical subject of
 politics; the British student finds every great speech delivered in
 every part of the Empire published in full in his morning paper; as an
 elector he gets his evidence at first hand instead of through the medium
-of the editor.</p>
+of the editor.
 
-<p>I believe the greatest fault of the American student lies in the
+I believe the greatest fault of the American student lies in the
 over-development of one of his greatest virtues, namely, his
-collectivism. His strong <i>esprit de corps</i> patterns and moulds him too
+collectivism. His strong _esprit de corps_ patterns and moulds him too
 far. The rewards are for the 'lock-step' type of man who conforms to the
 prevailing ideals of his college. He must parade, he must cheer, to
 order. Individualism is at a discount; it debars a man from the social
-rewards of college life. In<span class='pagenum'><a name="Page_19" id="Page_19">[Pg 19]</a></span> my last address to Columbia students on the
-life of Darwin,<a name="FNanchor_1_1" id="FNanchor_1_1"></a><a href="#Footnote_1_1" class="fnanchor">[1]</a> I asked what would be thought of that peculiar,
+rewards of college life. In my last address to Columbia students on the
+life of Darwin,[1] I asked what would be thought of that peculiar,
 ungainly, beetle collector if he were to enter one of our colleges
 to-day? He would be lampooned and laughed out of the exercise of his
 preferences and predispositions. The mother of a very talented young
 honor man recently confessed to me that she never spoke of her son's
 rank because she found it was considered "queer." This is not what young
 America generates, but what it borrows or reflects from the environment
-of its elders.</p>
+of its elders.
 
-<p>Thus the young American is not<span class='pagenum'><a name="Page_20" id="Page_20">[Pg 20]</a></span> lifted up by the example of his seniors,
+Thus the young American is not lifted up by the example of his seniors,
 he has to lift it up. If he is a student and has serious ambitions he
 represents the young salt of his nation, and the college brotherhood in
 general is a light shining in the darkness. Thus stumbling, groping,
 often misled by his natural leaders, he does somehow or other, through
 sheer force, acquire an education, and is just as surely coming to the
 front in the leadership of the American nation as the Oxford or
-Cambridge man is leading the British nation.</p>
+Cambridge man is leading the British nation.
 
-<p>Our student body is as fine as can be, it represents the best blood and
+Our student body is as fine as can be, it represents the best blood and
 the best impulses of the country; but there may be something wrong, some
-loss, some delay, some misdirection of educational energy.</p>
+loss, some delay, some misdirection of educational energy.
 
-<p>Bad as the British university system may be, and it has been vastly<span class='pagenum'><a name="Page_21" id="Page_21">[Pg 21]</a></span>
+Bad as the British university system may be, and it has been vastly
 improved by the influence of Huxley, it is more effective than ours
 because more centrifugal. English lads are taught to compose, even to
 speak in Latin and Greek. The Greek play is an anomaly here, it is an
 annual affair at Cambridge. There are not one but many active and
-successful debating clubs in Cambridge.</p>
+successful debating clubs in Cambridge.
 
-<p>The faults with our educational design are to be discovered through
+The faults with our educational design are to be discovered through
 study of the lives of great men and through one's own hard and stony
 experience. The best text-books for the nurture of the mind are these
 very lives, and they are not found in the lists of the pedagogues.
 Consult your Froebel, if you will, but follow the actual steps to
 Parnassus of the men whose political, literary, scientific, or
-professional career you expect to follow. If you would be a missionary,<span class='pagenum'><a name="Page_22" id="Page_22">[Pg 22]</a></span>
+professional career you expect to follow. If you would be a missionary,
 take the lives of Patterson and Livingstone; if an engineer, 'The Lives
 of Engineers;' if a physician, study that of Pasteur, which I consider
 by far the noblest scientific life of the nineteenth century; if you
 would be a man of science, study the recently published lives and
-letters of Darwin, Spencer, Kelvin, and of our prototype Huxley.</p>
+letters of Darwin, Spencer, Kelvin, and of our prototype Huxley.
 
-<p>Here you may discover the secret of greatness, which is, first, to be
+Here you may discover the secret of greatness, which is, first, to be
 born great, unfortunately a difficult and often impossible task; second,
-to possess the <i>instinct of self-education</i>. You will find that every
+to possess the _instinct of self-education_. You will find that every
 one of these masters while more or less influenced by their tutors and
 governors was led far more by a sort of internal, instinctive feeling
 that they must do certain things and learn certain things. They may
-fight the battle royal with <span class='pagenum'><a name="Page_23" id="Page_23">[Pg 23]</a></span>parents, teachers, and professors, they may
+fight the battle royal with parents, teachers, and professors, they may
 be as rebellious as ducklings amidst broods of chickens and give as much
 concern to the mother fowls, but without exception from a very early age
 they do their own thinking and revolt against having it done for them,
@@ -378,10 +280,10 @@ publishes his first paper to demonstrate that Fourier is right and
 Kelland is wrong. Pasteur's first research in crystallography is so
 brilliant that his professor urges him to devote himself to this branch
 of science, but Pasteur insists upon continuing for five years longer
-his general studies in chemistry and physics.</p>
+his general studies in chemistry and physics.
 
-<p><span class='pagenum'><a name="Page_24" id="Page_24">[Pg 24]</a></span></p><p>This is the true empirical, or laboratory method of getting at the
-trouble, if trouble there be in the American <i>modus operandi</i>; but a
+This is the true empirical, or laboratory method of getting at the
+trouble, if trouble there be in the American _modus operandi_; but a
 generation of our great educators have gone into the question as if no
 experiments had ever been made. In the last thirty years one has seen
 rise up a series of 'healers,' trying to locate the supposed weakness in
@@ -391,22 +293,22 @@ elective; one in the lack of contact between teacher and student and
 brings in preceptors, under whom the patient shows a slight improvement.
 Now the kind of diagnosis which comes from examining such a life as that
 of Huxley shows that the real trouble lies in the prolongation to mature
-years of what may<span class='pagenum'><a name="Page_25" id="Page_25">[Pg 25]</a></span> be styled the 'centripetal system,' namely, that
-afferent, or inflowing medi&aelig;val and oriental kind of instruction in
-which the student is rarely if ever forced to do his own thinking.</p>
+years of what may be styled the 'centripetal system,' namely, that
+afferent, or inflowing mediæval and oriental kind of instruction in
+which the student is rarely if ever forced to do his own thinking.
 
-<p>You will perceive by this that I am altogether on your side, an
+You will perceive by this that I am altogether on your side, an
 insurgent in education, altogether against most of my profession,
 altogether in sympathy with the over-fed student, and altogether against
 the prevailing system of overfeeding, which stuffs, crams, pours in,
 spoon-feeds, and as a sort of deathbed repentance institutes creative
-work after graduation.</p>
+work after graduation.
 
-<p>How do you yourself stand on this question? Is your idea of a good
+How do you yourself stand on this question? Is your idea of a good
 student that of a good 'receptacle'? Do you regard your instructors as
 useful grain hoppers whose duty it is to gather kernels of wisdom from
-all sources and direct them into your <span class='pagenum'><a name="Page_26" id="Page_26">[Pg 26]</a></span>receptive minds? Are you content
-to be a sort of psychic <i>Sacculina</i>, a vegetative animal, your mind a
+all sources and direct them into your receptive minds? Are you content
+to be a sort of psychic _Sacculina_, a vegetative animal, your mind a
 vast sack with two systems, one for the incurrent, the other for the
 outcurrent of predigested ideas? If so, all your mental organs of combat
 and locomotion will atrophy. Do you put your faith in reading, or in
@@ -416,7 +318,7 @@ prodigious memory will give you that enviable thing called culture,
 because the yardstick of this precious quality is not what you take in
 but what you give out, and this from the subtle chemistry of your brain
 must have passed through a mental metabolism of your own so that you
-have lent something to it. To be a man of culture you need not<span class='pagenum'><a name="Page_27" id="Page_27">[Pg 27]</a></span> be a man
+have lent something to it. To be a man of culture you need not be a man
 of creative power, because such men are few, they are born not made; but
 you must be a man of some degree of centrifugal force, of individuality,
 of critical opinion, who must make over what is read into conversation
@@ -424,25 +326,25 @@ and into life. Yes, one little idea of your own well expressed has a
 greater cultural value than one hundred ideas you absorb; one page that
 you produce, finely written, new to science or to letters and really
 worth reading, outweighs for your own purposes the five foot shelf. On
-graduation, <i>presto</i>, all changes, then of necessity must your life be
+graduation, _presto_, all changes, then of necessity must your life be
 independent and centrifugal; and just in so far as it has these powers
 will it be successful; just in so far as it is merely imitative will it
-be a failure.</p>
+be a failure.
 
-<p>There is no revolution in the contrary, or outflowing design. Like all<span class='pagenum'><a name="Page_28" id="Page_28">[Pg 28]</a></span>
+There is no revolution in the contrary, or outflowing design. Like all
 else in the world of thought it is, in the germ at least, as old as the
-Greeks and its illustrious pioneer was Socrates (469-399 <span class="smaller">B. C.</span>), who led
+Greeks and its illustrious pioneer was Socrates (469-399 B. C.), who led
 the approach to truth not by laying down the law himself but by means of
 answers required of his students. The efferent outflowing principle,
 moreover, is in the program of the British mathematician, Perry and many
-other reformers to-day.</p>
+other reformers to-day.
 
-<p>Against the centripetal theory of acquiring culture Huxley revolted with
+Against the centripetal theory of acquiring culture Huxley revolted with
 all his might. His daily training in the centrifugal school was in the
 genesis of opinion; and he incessantly practiced the precept that
 forming one's own opinion is infinitely better than borrowing one. Our
 sophisticated age discourages originality of view because of the
-plenitude of a ready-made supply of editorials,<span class='pagenum'><a name="Page_29" id="Page_29">[Pg 29]</a></span> of reviews, of reviews
+plenitude of a ready-made supply of editorials, of reviews, of reviews
 of reviews, of critiques, comments, translations and cribs. Study
 political speeches, not editorials about them; read original debates,
 speeches, and reports. If you purpose to be a naturalist get as soon as
@@ -454,36 +356,36 @@ and reviewer. Do not trust to mental peptones. Carry the independent,
 inquisitive, skeptical and even rebellious spirit of the graduate school
 well down into undergraduate life, and even into school life. If you are
 a student force yourself to think independently; if a teacher compel
-your<span class='pagenum'><a name="Page_30" id="Page_30">[Pg 30]</a></span> youth to express their own minds. In listening to a lecture weigh
+your youth to express their own minds. In listening to a lecture weigh
 the evidence as presented, cultivate a polite skepticism, not affected
 but genuine, keep a running fire of interrogation marks in your mind,
 and you will finally develop a mind of your own. Do not climb that
 mountain of learning in the hope that when you reach the summit you will
 be able to think for yourself; think for yourself while you are
-climbing.</p>
+climbing.
 
-<p>In studying the lives of your great men you will find certain of them
+In studying the lives of your great men you will find certain of them
 were veritable storehouses of facts, but Darwin, the greatest of them
 all in the last century, depended largely upon his inveterate and
 voluminous powers of note-taking. Thus you may pray for the daily bread
-of real mental growth, for the future paradise<span class='pagenum'><a name="Page_31" id="Page_31">[Pg 31]</a></span> is a state of mind and
+of real mental growth, for the future paradise is a state of mind and
 not a state of memory. The line of thought is the line of greatest
 resistance; the line of memory is the line of least resistance; in
 itself it is purely imitative, like the gold or silver electroplating
 process which lends a superficial coating of brilliancy or polish to
-what may be a shallow mind.</p>
+what may be a shallow mind.
 
-<p>The case is deliberately overstated to give it emphasis.</p>
+The case is deliberately overstated to give it emphasis.
 
-<p>True, the accumulated knowledge of what has been thought and said,
+True, the accumulated knowledge of what has been thought and said,
 serves as the gravity law which will keep you from flying off at a
 tangent. But no warning signals are needed, there is not the least
 danger that constructive thinking will drive you away from learning; it
 will much more surely drive you to it, with a deeply intensified
 reverence for your intellectual forebears; in fact, the eldest
-<span class='pagenum'><a name="Page_32" id="Page_32">[Pg 32]</a></span>offspring of centrifugal education is that keen and fresh appetite for
+offspring of centrifugal education is that keen and fresh appetite for
 knowledge which springs only from trying to add your own mite to it. How
-your Maxwell, Herz, R&ouml;ntgen, Curie, with their world-invigorating
+your Maxwell, Herz, Röntgen, Curie, with their world-invigorating
 discoveries among the laws of radiant matter, begin to soar in your
 estimation when you yourself wrest one single new fact from the
 reluctant world of atoms! How your modern poets, Maeterlinck and
@@ -492,10 +394,10 @@ prose verse to what they are delving for in this mysterious human
 faculty of ours. Regard Voltaire at the age of ten in 'Louis-le-Grand,'
 the Eton of France, already producing bad verses, but with a passionate
 voracity for poetry and the drama. Regard the youthful Huxley returning
-from his voyage of the<span class='pagenum'><a name="Page_33" id="Page_33">[Pg 33]</a></span> 'Rattlesnake' and laying out for himself a ten
-years' course in search of pure information.</p>
+from his voyage of the 'Rattlesnake' and laying out for himself a ten
+years' course in search of pure information.
 
-<p>This route of your own to opinions, ideas, and the discovery of new
+This route of your own to opinions, ideas, and the discovery of new
 facts or principles brings you back again to Huxley as the man who
 always had something of his own to say and labored to say it in such a
 way as to force people to listen to him. His wondrous style did not come
@@ -504,20 +406,20 @@ consider his advice about style far wiser than that of Herbert Spencer.
 Why forego pleasures, turn your back on the world, the flesh, and the
 devil, and devote your life to erudition, observation, and the pen if
 you remain unimpressive, if you cannot get an audience, if no one cares
-to read what you write? This moral is one of the<span class='pagenum'><a name="Page_34" id="Page_34">[Pg 34]</a></span> first that Huxley has
-impressed upon you, namely, <i>write to be read</i>; if necessary "stoop to
+to read what you write? This moral is one of the first that Huxley has
+impressed upon you, namely, _write to be read_; if necessary "stoop to
 conquer," employ all your arts and wiles to get an audience in science,
 in literature, in the arts, in politics. Get an audience you must,
-otherwise you will be a cipher and not a force.</p>
+otherwise you will be a cipher and not a force.
 
-<p>Pursuant of the constructive design, the measure of the teacher's
+Pursuant of the constructive design, the measure of the teacher's
 success is the degree in which ideas come not from him but from his
 pupils. A brilliant address may produce a temporary emotion of
 admiration, a dry lecture may produce a permanent productive impulse in
 the hearers. One may compare some who are popularly known as gifted
 teachers to expert swimmers who sit on the bank and talk inspiringly on
 analyses of strokes; the centrifugal teacher takes the pupils into the
-water with him,<span class='pagenum'><a name="Page_35" id="Page_35">[Pg 35]</a></span> he may even pretend to drown and call for a rescue. In
+water with him, he may even pretend to drown and call for a rescue. In
 football parlance the coach must get into the scrimmage with the team.
 This was the lesson taught me by the great embryologist Francis Balfour
 of Cambridge, who was singularly noted for doing joint papers with his
@@ -528,20 +430,20 @@ This is virtually the famous method of teaching law re-discovered by the
 educational genius of Langdell; the students do all the lecturing and
 discoursing, the professor lolls quietly in his chair and makes his
 comments; the stimulus upon ambition and competition is fairly magical;
-there is in the classroom the real intellectual<span class='pagenum'><a name="Page_36" id="Page_36">[Pg 36]</a></span> struggle for existence
+there is in the classroom the real intellectual struggle for existence
 which one meets in the world of affairs. I would apply this very
 Socratic principle in every branch of instruction, early and late, and
 thus obey the 'acceleration' law in education which I have spoken of
 above as bringing into earlier and earlier stages those powers which are
-to be actually of service in after life.</p>
+to be actually of service in after life.
 
-<p>There is then no mystery about education if we plan it along the actual
+There is then no mystery about education if we plan it along the actual
 lines of self-development followed by these great leaders and shape its
 deep under-current principles after our own needs and experience. Look
 early at the desired goal and work toward it from the very beginning.
 The proof that the secret does not lie in subject, or language, but in
 preparation for the living productive principle is found in the fact
-that there have been <i>relatively</i> educated men in<span class='pagenum'><a name="Page_37" id="Page_37">[Pg 37]</a></span> every stage of
+that there have been _relatively_ educated men in every stage of
 history. The wall painters in the Magdalenian caves were the producers
 and hence the educated men of their day. This goal of production was
 sought even earlier by the leaders of Eolithic men 200,000 years ago and
@@ -551,43 +453,43 @@ accretion characteristic of all living things, namely, to develop the
 highest degree of productive power, centrifugal force, original,
 creative, individual efficiency. Through this the world advances; the
 Neolithic man with his invention of polished implements succeeds the
-Pal&aelig;olithic, and the man of books and printing replaces the savage.</p>
+Palæolithic, and the man of books and printing replaces the savage.
 
-<p>The standards of a liberal mind are and always have been the same,<span class='pagenum'><a name="Page_38" id="Page_38">[Pg 38]</a></span>
+The standards of a liberal mind are and always have been the same,
 namely, the sense of Truth and Beauty, both of which are again in
-conformity with Nature.</p>
+conformity with Nature.
 
-<div class="center"><div class="poem"><div class="stanza">
-<div>"Beauty is truth, truth beauty, that is all</div>
-<div>Ye know on earth, and all ye need to know."</div>
-</div><div class="stanza">
-<div><span class="s5">&nbsp;</span><span class="smcap">Keats'</span> <i>Ode on a Grecian Urn</i>.</div>
-</div></div></div>
 
-<p>The sources of our facts are and always have been the same, namely, the
+     "Beauty is truth, truth beauty, that is all
+     Ye know on earth, and all ye need to know."
+
+                KEATS' _Ode on a Grecian Urn_.
+
+
+The sources of our facts are and always have been the same, namely, the
 learning of what men before you have observed and recorded, and the
 advance only through the observation of new truth, that is, old to
 nature but new to man. The handling of this knowledge has always been
 the same, namely, through human reason. The giving forth of this
 knowledge and thus the furthering of ideas and customs has and always
 will be the same, namely, through expression, vocal, written, or manual,
-that is, in symbols and in design.</p>
+that is, in symbols and in design.
 
-<p>It follows that the all round <span class='pagenum'><a name="Page_39" id="Page_39">[Pg 39]</a></span>liberally educated man, from Pal&aelig;olithic
+It follows that the all round liberally educated man, from Palæolithic
 times to the time when the earth shall become a cold cinder, will always
-be the same, namely, <i>the man who follows his standards of truth and
+be the same, namely, _the man who follows his standards of truth and
 beauty, who employs his learning and observation, his reason, his
 expression, for purposes of production, that is, to add something of his
-own to the stock of the world's ideas</i>. This is the author's conception
-of a liberal education.</p>
+own to the stock of the world's ideas_. This is the author's conception
+of a liberal education.
 
-<p>One cannot too often quote the rugged insistence of Carlyle: "Produce!
+One cannot too often quote the rugged insistence of Carlyle: "Produce!
 Produce! Were it but the pitifullest infinitesimal fraction of a
 product, produce it in God's name! 'Tis the utmost thou hast in thee:
-out with it, then."</p>
+out with it, then."
 
-<p>Now note that whereas there are the above six powers, namely, truth and
-beauty, learning and observation,<span class='pagenum'><a name="Page_40" id="Page_40">[Pg 40]</a></span> reason, and expression, which
+Now note that whereas there are the above six powers, namely, truth and
+beauty, learning and observation, reason, and expression, which
 subserve the seventh, production or constructive thinking, and whereas
 the giving out of ideas is the object to be attained, only one power
 figures prominently in our modern system of college and school
@@ -599,7 +501,7 @@ flash out of existence at graduation? The answer is simple if you accept
 my conception of education. Whereas it takes six powers to make a
 liberally educated man or woman, and seven to make a productive man or
 woman, only one power has been cultivated assiduously in the
-<span class='pagenum'><a name="Page_41" id="Page_41">[Pg 41]</a></span>'centripetal' education; whereas there are two great gateways of
+'centripetal' education; whereas there are two great gateways of
 knowledge, learning and observation, only one has been continuously
 passed through; whereas there are two universal standards of truth and
 beauty, only truth has constantly been held up to you, and that in
@@ -610,73 +512,68 @@ life of the scientist, the artist, the physician, the engineer, the
 merchant. Note that whereas you are powerless unless you can by the
 metabolism of logic make the sum of acquired and observed knowledge your
 own, that kind of work-a-day efficient logic has never been forced upon
-you and you are daily, perhaps hourly, guilty of<span class='pagenum'><a name="Page_42" id="Page_42">[Pg 42]</a></span> the <i>non sequitur</i>,
-the <i>post hoc ergo propter hoc</i>, the 'undistributed middle,' and all
-those innocent sins against truth which come through the illogical mind.</p>
+you and you are daily, perhaps hourly, guilty of the _non sequitur_,
+the _post hoc ergo propter hoc_, the 'undistributed middle,' and all
+those innocent sins against truth which come through the illogical mind.
 
-<p>"That man," says Huxley, "has had a liberal education ... whose
+"That man," says Huxley, "has had a liberal education ... whose
 intellect is a clear, cold, logic engine, with all its parts of equal
 strength, and in smooth working order; ready, like a steam-engine, to be
 turned to any kind of work, and spin the gossamers as well as forge the
-anchors of the mind."</p>
+anchors of the mind."
 
-<p>Note that whereas you are a useless member of society unless you can
+Note that whereas you are a useless member of society unless you can
 give forth something of what you know and feel in writing, speaking, or
 design, your expressive powers may have been atrophied through
 insufficient use. In brief, you may have shunned individual opinion,
-observation, logic, expression, because they are each and<span class='pagenum'><a name="Page_43" id="Page_43">[Pg 43]</a></span> every one on
+observation, logic, expression, because they are each and every one on
 the lines of greatest resistance. And your teachers not only allowed you
 but actually encouraged and rewarded you for following the lines of
 least resistance in the accurate reproduction, in examination papers and
-marking systems, of their own ideas and those you found in books.</p>
+marking systems, of their own ideas and those you found in books.
 
-<p>May you, therefore, write down these seven words and read them over
+May you, therefore, write down these seven words and read them over
 every morning: Truth, Beauty, Learning, Observation, Reason, Expression,
-Production.</p>
+Production.
 
-<p>In the wondrous old quilt work of inherited, or ancestral
+In the wondrous old quilt work of inherited, or ancestral
 predispositions which make your being you may be gifted with all these
 seven powers in equal and well balanced degree; if you are so blessed
 you have a great career before you. If, as is more likely, you have in
-full measure only a part of each, or some in large <span class='pagenum'><a name="Page_44" id="Page_44">[Pg 44]</a></span>measure, some in
+full measure only a part of each, or some in large measure, some in
 small, keep on the daily examination of your chart as giving you the
-canons of a liberal education and of a productive mind.</p>
+canons of a liberal education and of a productive mind.
 
-<p>Remember that as regards the somewhat overworked word 'service' every
+Remember that as regards the somewhat overworked word 'service' every
 addition in every conceivable department of human activity which is
 constructive of society is service; that the spirit of science is to
 transfer something of value from the unknown into the realm of the
 known, and is, therefore, identical with the spirit of literature; that
 the moral test of every advance is whether or not it is constructive,
-for whatever is constructive is moral.</p>
+for whatever is constructive is moral.
 
-<p>I would not for a moment take advantage of the present opportunity to
+I would not for a moment take advantage of the present opportunity to
 discourage the study of human nature and of the humanities, but for what
-is called the best opening for a constructive career let it be Nature.</p>
+is called the best opening for a constructive career let it be Nature.
 
-<p><span class='pagenum'><a name="Page_45" id="Page_45">[Pg 45]</a></span></p><p>The ground for my preference is that human nature is an exhaustible
+The ground for my preference is that human nature is an exhaustible
 fountain of research; Homer understood it well; Solomon fathomed it;
 Shakespeare divined it, both normal and abnormal; the modernists have
-been squeezing out the last drops of abnormality.</p>
+been squeezing out the last drops of abnormality.
 
-<p>Nature, studied since Aristotle's time, is still full to the brim; no
+Nature, studied since Aristotle's time, is still full to the brim; no
 perceptible falling of its tides is evident from any point at which it
-is attacked, from nebul&aelig; to protoplasm; it is always wholesome,
+is attacked, from nebulæ to protoplasm; it is always wholesome,
 refreshing, and invigorating. Of the two creative literary artists of
 our time, Maeterlinck, jaded with human abnormality, comes back to the
 bee and the flowers and the 'blue bird,' with a delicious renewal of
-youth, while Rostand turns to the barnyard.</p>
+youth, while Rostand turns to the barnyard.
 
-<div class="footnotes"><h3>FOOTNOTE:</h3>
+FOOTNOTE:
 
-<div class="footnote"><p><a name="Footnote_1_1" id="Footnote_1_1"></a><a href="#FNanchor_1_1"><span class="label">[1]</span></a> Life and Works of Darwin. Pop. Sci. Monthly, Apr., 1909,
-pp. 315-340. (Address delivered at Columbia University on the one
-hundredth anniversary of Darwin's birth, as the first of a series of
-nine lectures on "Charles Darwin and His Influence on Science.")</p></div></div>
+[1] Life and Works of Darwin. Pop. Sci. Monthly, Apr., 1909, pp.
+315-340. (Address delivered at Columbia University on the one hundredth
+anniversary of Darwin's birth, as the first of a series of nine lectures
+on "Charles Darwin and His Influence on Science.")
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 50338 ***</div>
-</body>
-</html>
-
+*** END OF THE PROJECT GUTENBERG EBOOK 50338 ***
